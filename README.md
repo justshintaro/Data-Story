@@ -5,7 +5,7 @@
 <img src="figs/100126-the-glass.jpeg" width="500">
 
 ### [Project Description](doc/)
-This is an *individual* project this semester. 
+This is an *individual* project. 
 
 Term: Spring 2022
 
