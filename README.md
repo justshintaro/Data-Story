@@ -12,7 +12,7 @@ Term: Spring 2022
 + Projec title: Feminism Through Philosophy
 + This project is conducted by Shintaro Nakamura
 
-+ Project summary: Currently, politically, economically, and systematically, women are disadvanted. Because a lot of philosophical writings have shaped the fundamentals of our current economical and political systems, NLP approach to philosopical data will certainly revela what issues had been addressed by phisophers and what values were missing. Mostly we will focus on only feminism school here. You will see diverse topics in the feminism writings. Apart from the feminism school, the philosophers tend to discuss values which is irrelevant to gender, but mention more men than women... You can read my report [DataStory.html](doc/) in detail.
++ Project summary: Currently, politically, economically, and systematically, women are disadvanted. Because a lot of philosophical writings have shaped the fundamentals of our current economical and political systems, NLP approach to philosopical data will certainly reveal what issues had been addressed by philosophers and what values were missing. Mostly we will focus on only feminism school here. You will see diverse topics in the feminism writings. Apart from the feminism school, the philosophers tend to discuss values which is irrelevant to gender, but mention more men than women... You can read my report [DataStory.html](doc/) in detail.
 
 + ■ Agenda ■<br>
 1.Data Processing<br>
